@@ -43,7 +43,7 @@ Junior Developer |  | AI-assisted Dev.
 
 ### 🔹 N8N workflow to get alerts from other API services
 
-###🔹 N8N Workflow – Website Lead Alert Automation
+### 🔹 N8N Workflow – Website Lead Alert Automation
 
 Tech: n8n, Webhooks, Express.js route, Google Sheets,  Telegram API /Discord API
 
@@ -75,6 +75,3 @@ Tech: n8n, Webhooks, Express.js route, Google Sheets,  Telegram API /Discord API
 - API security & rate limiting
 
 ---
-
-I don’t just learn frameworks —  
-I learn **why things work**, break them, fix them, and rebuild them better 😄
