@@ -1,17 +1,17 @@
 # 👋 Hi, I'm Sivavignesh
 
-🚀 Junior Full-Stack Developer | MERN Stack | AI-assisted App Builder  
-💡 I build scalable web apps, dashboards, and real-world products — not just demos.
+Junior Developer |  | AI-assisted Dev.
+
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎯 Junior Developer with hands-on experience building **production-style applications**
-- 🧠 Strong fundamentals in **JavaScript, backend APIs, and databases**
-- 🔨 Prefer **learning by building real projects**
-- ⚡ Currently focused on **performance, security, and clean architecture**
-- 🌍 Based in India | Open to remote opportunities
+- Junior Developer with hands-on experience building **production-style applications**
+- Strong fundamentals in **JavaScript, backend APIs, and databases**
+- Prefer **learning by building real projects**
+- Currently focused on **performance, security, and clean architecture**
+- Based in India.
 
 ---
 
@@ -72,9 +72,7 @@ Tech: n8n, Webhooks, Express.js route, Google Sheets,  Telegram API /Discord API
 
 - SOLANA Blockchain and trading bot development
 - Advanced JavaScript (async patterns, performance)
-- System design basics
 - API security & rate limiting
-- Data structures & Big-O (LeetCode practice)
 
 ---
 
