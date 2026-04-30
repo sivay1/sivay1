@@ -20,7 +20,7 @@ Junior Developer |  | AI-assisted Dev.
 ### Frontend
 - HTML5, CSS3, JavaScript (ES6+)
 - React.js, Tailwind CSS
-- Material UI
+
 
 ### Backend
 - Node.js, Express.js
