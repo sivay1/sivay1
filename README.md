@@ -51,8 +51,6 @@ I enjoy turning product ideas into real-world applications with clean architectu
 
 # 📌 Featured Projects
 
-## 🔹 N8N workflow to get alerts from other API services
-
 ## 🔹 N8N Workflow – Website Lead Alert Automation
 
 **Tech:** n8n, Webhooks, Express.js route, Google Sheets, Telegram API / Discord API
