@@ -19,7 +19,7 @@ I enjoy turning product ideas into real-world applications with clean architectu
 - AI-assisted workflows and automation
 
 ### Open Source
-- Contributed to the official Solana.com repository through accepted GitHub pull requests
+- Made a small contribution to the official Solana.com repository through an accepted pull request
 - Experience working with production-level repositories and GitHub collaboration workflows
 - PR:https://github.com/solana-foundation/solana-com/pull/711
 
