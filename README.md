@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sivavignesh
 
-Full Stack JavaScript Developer | Backend Systems | AI-assisted Applications
+Full Stack  Developer | Backend Systems | AI-assisted Applications
 
 ---
 
