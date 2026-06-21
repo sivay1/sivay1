@@ -47,6 +47,7 @@ I enjoy turning product ideas into real-world applications with clean architectu
 - MongoDB
 - MySQL
 - SQLite
+- PostgreSQL
 ---
 
 # 📌 Featured Projects
