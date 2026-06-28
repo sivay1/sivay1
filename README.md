@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Sivavignesh
 
-Full Stack  Developer | Backend Systems | AI-assisted Applications
+Full Stack  Developer | AI-Driven Development
 
 ---
 
 ## 🧑‍💻 About Me
 
-Developer focused on building scalable web applications and backend systems using modern JavaScript technologies.
+Leveraging AI to accelerate development, improve code quality, automate repetitive tasks, and prototype faster.
 
 I enjoy turning product ideas into real-world applications with clean architecture, API-driven workflows, automation systems, authentication flows, and responsive UI experiences.
 
