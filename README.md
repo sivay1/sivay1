@@ -6,7 +6,7 @@ Full Stack  Developer | Backend Systems | AI-assisted Applications
 
 ## 🧑‍💻 About Me
 
-Developer focused on building scalable, production-style web applications and backend systems using modern JavaScript technologies.
+Developer focused on building scalable web applications and backend systems using modern JavaScript technologies.
 
 I enjoy turning product ideas into real-world applications with clean architecture, API-driven workflows, automation systems, authentication flows, and responsive UI experiences.
 
