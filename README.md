@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sivavignesh
 
-Full Stack  Developer | AI-Driven Development
+Junior Dev - Full Stack | AI-Driven Development
 
 ---
 
