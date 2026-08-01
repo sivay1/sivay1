@@ -76,10 +76,24 @@ Built a chatbot using openAI that replies to the custom data provided to it. And
 
 Focused to capture leads (Feature: A mini-form that pop's up after 2 minutes of interaction to capture user data and it also captures userdata in chat-conversation for professional use)
 
-Backend proxy for API key security
+
+---
+## 🔹 Shop CRM - Inventory and Sales Management
+
+**Tech:** React, Node.js, Express, PostgreSQL
+Built a CRM web application for small retail
+businesses featuring inventory tracking, sales management, and customer records
 
 ---
 
+## 🔹 CareerFlow - Job Application Tracker
+
+**Tech:** React, Node.js, Express, PostgreSQL
+Developed a full-stack job tracking platform with a React
+frontend on Vercel and a Node.js backend deployed on AWS EC2, including database setup and server
+configuration.
+
+---
 # 🌐 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/sivavignesh-b-8b915b162
