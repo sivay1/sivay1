@@ -6,9 +6,7 @@ Junior Dev - Full Stack | AI-Driven Development
 
 ## 🧑‍💻 About Me
 
-Leveraging AI to accelerate development, improve code quality, automate repetitive tasks, and prototype faster.
 
-I enjoy turning product ideas into real-world applications with clean architecture, API-driven workflows, automation systems, authentication flows, and responsive UI experiences.
 
 ### Current Focus
 - Backend engineering
